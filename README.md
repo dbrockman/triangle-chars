@@ -1,5 +1,9 @@
 Map of 20 unicode triangle characters (U+25B2 - U+25C5).
 
+## Installation
+
+    npm install triangle-chars
+
 ## Usage
 
 ``` js
