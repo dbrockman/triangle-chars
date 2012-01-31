@@ -1,0 +1,14 @@
+{
+  "name": "triangle-chars",
+  "description": "Map of 20 unicode triangle characters",
+  "version": "0.1.0",
+  "author": "David Brockman Smoliansky",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dbrockman/triangle-chars.git"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "main": "triangles"
+}
