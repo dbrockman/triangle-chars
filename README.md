@@ -2,6 +2,8 @@ Map of 20 unicode triangle characters (U+25B2 - U+25C5).
 
 ## Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dbrockman/triangle-chars.svg)](https://greenkeeper.io/)
+
     npm install triangle-chars
 
 ## Usage
